@@ -48,7 +48,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sandipchopkar95/" target="_blank">
+  <a href="https://www.linkedin.com/in/sandip-chopkar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:sandipchopkar95@gmail.com">
