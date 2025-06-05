@@ -2,7 +2,7 @@
 <h3 align="center">💻 QA Engineer | 🧪 Automation Expert | 🚀 CI/CD Enthusiast | 🧠 Driven by Quality</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Automation+Specialist;Java+%7C+Playwright+%7C+Selenium+%7C+Appium;API+%7C+Web+%7C+Mobile+Testing;CI%2FCD+with+GitHub+Actions+%7C+GitLab+CI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Automation+QA+Engineer;Java+%7C+Playwright+%7C+Selenium+%7C+Appium;API+%7C+Web+%7C+Mobile+Testing;CI%2FCD+with+GitHub+Actions+%7C+GitLab+CI" alt="Typing SVG" />
 </p>
 
 ---
