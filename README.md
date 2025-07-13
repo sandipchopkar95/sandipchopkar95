@@ -58,5 +58,4 @@
 
 ---
 
-> 🧠 *“Automation is not about replacing testers, it's about empowering them to focus on what truly matters: quality.”*
 
