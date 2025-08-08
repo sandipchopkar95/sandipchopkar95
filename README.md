@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandipchopkar95&show_icons=true&theme=radical" alt="Sandip's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipchopkar95&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sandipchopkar95&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
