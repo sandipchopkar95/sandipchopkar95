@@ -31,7 +31,7 @@
 | BDD | Cucumber, Gherkin, Playwright-BDD |
 | CI/CD | Jenkins, GitHub Actions, Github page, GitLab CI |
 | Version Control | Git, GitHub, GitLab |
-| Reporting | HTML Extend Reports, Chaintest Reports, Playwrught html report, Cucumber report |
+| Reporting | HTML Extend Reports, Chaintest Reports, Playwright html report, Cucumber report |
 | Tools | IntelliJ, Eclipse, VS Code, Postman,  JIRA |
 
 ---
